@@ -29,7 +29,7 @@ This project was put together using create-react-app (CRA). You will not need to
 - [x] Add the dependencies you will need to implement Redux. Also, add you may need to add `node-sass` as a dependency.
 - [x] Using the same command tool (yarn or npm) start up the app using `yarn start` or `npm start`
 - [x] Create a new branch: git checkout -b `<firstName-lastName>`.
-  [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+      [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [x] Push commits: git push origin `<firstName-lastName>`.
 
 Follow these steps for completing your project.
